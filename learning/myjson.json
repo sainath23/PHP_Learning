@@ -1,0 +1,35 @@
+{
+    "employee":
+    [
+        {
+            "empid" : "1",
+            "name" : "Sainath",
+            "email" : "saiparkar4@gmail.com",
+            "salary" : "20000"
+        },
+        {
+            "empid" : "2",
+            "name" : "Shahid",
+            "email" : "shahid@gmail.com",
+            "salary" : "30000"
+        },
+        {
+            "empid" : "3",
+            "name" : "Saurabh",
+            "email" : "saurabh4@gmail.com",
+            "salary" : "50000"
+        },
+        {
+            "empid" : "4",
+            "name" : "Gaurav",
+            "email" : "grasal@gmail.com",
+            "salary" : "25000"
+        },
+        {
+            "empid" : "5",
+            "name" : "Pratik",
+            "email" : "psutar@gmail.com",
+            "salary" : "10000"
+        }
+    ]
+}
